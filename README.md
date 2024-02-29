@@ -16,3 +16,7 @@ Travelpedia mainly aims for the following things:
    - Planning the proper itinerary can be a frightening project, in particular when there's a lot to peer and do in a brand new destination. Our website streamlines the process by way of presenting innovative itinerary making plans equipment that take the guesswork out of journey planning.
    - Simply input your preferred locations, tour dates, and pastimes, and let our intelligent algorithm generate a custom designed itinerary tailor-made to your preferences. Whether you're a subculture vulture, outdoor fanatic, or foodie, we will help you craft a memorable itinerary that maximizes some time and experiences.
    - Access exact hints for points of interest, sports, restaurants, and transportation alternatives, whole with maps, establishing hours, and insider guidelines from our network of tourists. With our itinerary making plans equipment, you can make the maximum of every second of your ride without feeling overwhelmed by using logistics.
+![Screenshot 2024-02-29 233904](https://github.com/NiketanSharma/Travelpedia/assets/149008719/eddd9a05-daa9-4fbb-a661-9840fb9a9428)
+![Screenshot 2024-02-29 233932](https://github.com/NiketanSharma/Travelpedia/assets/149008719/1f077c14-3d40-4774-8a1a-6f42f3598f65)
+![Screenshot 2024-02-29 233944](https://github.com/NiketanSharma/Travelpedia/assets/149008719/bd1c69c3-d8d9-4c7d-95c3-5d79cc4eebcd)
+![Screenshot 2024-02-29 233957](https://github.com/NiketanSharma/Travelpedia/assets/149008719/177b87b6-4f38-4ff1-8405-34ef089cdff7)
